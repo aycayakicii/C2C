@@ -1,0 +1,243 @@
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\c2c.dll.config
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\c2c.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\c2c.pdb
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\csc.exe
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\csc.exe.config
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\csc.rsp
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\csi.exe
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\csi.exe.config
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\csi.rsp
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.AppContext.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.Console.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\vbc.exe
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\vbc.exe.config
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\vbc.rsp
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\System.Web.Helpers.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\System.Web.Mvc.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\System.Web.Razor.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\System.Web.Webpages.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\System.Web.Razor.xml
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\System.Web.Webpages.xml
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\System.Web.Helpers.xml
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\System.Web.Mvc.xml
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\obj\Debug\c2c.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\obj\Debug\c2c.csproj.CopyComplete
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\obj\Debug\c2c.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\obj\Debug\c2c.pdb
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\EntityFramework.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\EntityFramework.SqlServer.dll
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\EntityFramework.xml
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\bin\EntityFramework.SqlServer.xml
+C:\Users\Ayça\Desktop\PROJELER\C2C\c2c\c2c\obj\Debug\c2c.csprojAssemblyReference.cache
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\c2c.dll.config
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\c2c.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\c2c.pdb
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\csc.exe
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\csc.exe.config
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\csc.rsp
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\csi.exe
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\csi.exe.config
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\csi.rsp
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.AppContext.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.Console.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.Security.Claims.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\vbc.exe
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\vbc.exe.config
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\vbc.rsp
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\EntityFramework.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\EntityFramework.SqlServer.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\System.Web.Helpers.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\System.Web.Mvc.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\System.Web.Razor.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\System.Web.Webpages.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\System.Web.Webpages.Razor.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\EntityFramework.xml
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\EntityFramework.SqlServer.xml
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\System.Web.Razor.xml
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\System.Web.Webpages.xml
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\System.Web.Webpages.Razor.xml
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\System.Web.Helpers.xml
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\System.Web.Mvc.xml
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\obj\Debug\c2c.csprojAssemblyReference.cache
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\obj\Debug\c2c.csproj.CoreCompileInputs.cache
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\obj\Debug\c2c.csproj.CopyComplete
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\obj\Debug\c2c.dll
+C:\Users\Nedim\Desktop\C2C\c2c\c2c\obj\Debug\c2c.pdb
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\c2c.dll.config
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\c2c.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\c2c.pdb
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\csc.exe
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\csc.exe.config
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\csc.rsp
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\csi.exe
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\csi.exe.config
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\csi.rsp
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.AppContext.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.Console.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.Security.Claims.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\vbc.exe
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\vbc.exe.config
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\vbc.rsp
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\EntityFramework.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\EntityFramework.SqlServer.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\System.Web.Helpers.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\System.Web.Mvc.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\System.Web.Razor.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\System.Web.Webpages.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\System.Web.Webpages.Razor.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\EntityFramework.xml
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\EntityFramework.SqlServer.xml
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\System.Web.Razor.xml
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\System.Web.Webpages.xml
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\System.Web.Webpages.Razor.xml
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\System.Web.Helpers.xml
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\System.Web.Mvc.xml
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\obj\Debug\c2c.csprojAssemblyReference.cache
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\obj\Debug\c2c.csproj.CoreCompileInputs.cache
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\obj\Debug\c2c.csproj.CopyComplete
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\obj\Debug\c2c.dll
+C:\Users\Nedim\Desktop\web geliştirme\C2CProje\c2c\c2c\obj\Debug\c2c.pdb

@@ -1,0 +1,13 @@
+﻿@model List<Blog>
+@{
+    ViewBag.Title = "BlogOku";
+}
+<br />
+<h2>BlogOku</h2>
+<br />
+@foreach (var item in Model)
+{
+    @item.Baslik
+    @item.Yazi
+    @item.Tarih
+}

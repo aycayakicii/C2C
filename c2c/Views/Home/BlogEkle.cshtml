@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "BlogEkle";
+}
+
+<h2 class="control-label col-md-3"> Blog Ekle</h2>
+<hr />
+
+@using (Html.BeginForm("BlogEkle","Home",FormMethod.Post))
+{
+<div class="form-horizontal">
+    <div class="form-group">
+        <label for="exampleInputEmail1" class="control-label col-md-3">Blog Başlık</label>
+        <div class="col md-9">
+            @Html.TextBox("Baslik", null, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            <label for="exampleInputEmail1" class="control-label col-md-3">Blog İçerik</label>
+            <div class="col md-9">
+                @Html.TextArea("Yazi", null, new { @class = "form-control" })
+            </div>
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1" class="control-label col-md-3">Görsel</label>
+        <div class="col md-9">
+            @Html.TextBox("Görsel", null, new { @class = "form-control" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="exampleInputEmail1" class="control-label col-md-3">Tarih</label>
+        <div class="col md-9">
+            @Html.TextBox("Tarih", null, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+    <div class="col-sm-offset-3 col-sm-9">
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</div>
+
+    </div>
+</div>
+}
+
